@@ -1,0 +1,132 @@
+{
+  "topic": "Norsk",
+  "questions": [
+    [
+  {
+    "text": "Hva kan du gjøre hjemme?",
+    "translation": "Что ты можешь делать дома?",
+    "tip": "A1: Jeg kan lage mat og vaske gulvet. / A2+: Jeg kan lage middag, rydde huset og hjelpe barna med lekser."
+  },
+  {
+    "text": "Hva kan du lage til middag?",
+    "translation": "Что ты можешь приготовить на ужин?",
+    "tip": "A1: Jeg kan lage suppe eller pasta. / A2+: Jeg kan lage fisk, kjøttboller og salat."
+  },
+  {
+    "text": "Kan du svømme?",
+    "translation": "Ты можешь плавать?",
+    "tip": "A1: Ja, jeg kan svømme litt. / A2+: Ja, jeg liker å svømme i svømmehallen om vinteren."
+  },
+  {
+    "text": "Hva kan du hjelpe barna med?",
+    "translation": "Чем ты можешь помочь детям?",
+    "tip": "A1: Jeg kan hjelpe dem med lekser. / A2+: Jeg kan hjelpe barna med lekser og lek ute."
+  },
+  {
+    "text": "Hva må du gjøre hjemme hver dag?",
+    "translation": "Что ты должен делать дома каждый день?",
+    "tip": "A1: Jeg må lage mat og vaske klær. / A2+: Jeg må lage mat, hjelpe barna og rydde litt hver dag."
+  },
+  {
+    "text": "Må du stå opp tidlig om morgenen?",
+    "translation": "Ты должен вставать рано утром?",
+    "tip": "A1: Ja, jeg må stå opp klokka seks. / A2+: Ja, jeg må stå opp tidlig fordi jeg begynner på jobb klokka sju."
+  },
+  {
+    "text": "Hva må man gjøre for å holde seg frisk?",
+    "translation": "Что нужно делать, чтобы оставаться здоровым?",
+    "tip": "A1: Man må spise sunt og sove godt. / A2+: Man må spise sunt, trene litt og ha tid til å slappe av."
+  },
+  {
+    "text": "Hva må du huske når du handler i butikken?",
+    "translation": "Что ты должен помнить, когда ходишь в магазин?",
+    "tip": "A1: Jeg må huske penger og handleliste. / A2+: Jeg må huske handlelisten og ta med handlenett."
+  },
+  {
+    "text": "Hva vil du spise til middag i dag?",
+    "translation": "Что ты хочешь поесть на ужин сегодня?",
+    "tip": "A1: Jeg vil spise suppe. / A2+: Jeg vil spise fisk og poteter til middag i dag."
+  },
+  {
+    "text": "Hva vil du gjøre i helgen?",
+    "translation": "Что ты хочешь делать на выходных?",
+    "tip": "A1: Jeg vil slappe av og se på TV. / A2+: Jeg vil gå tur i skogen og møte venner."
+  },
+  {
+    "text": "Hvilket land vil du besøke?",
+    "translation": "Какую страну ты хочешь посетить?",
+    "tip": "A1: Jeg vil besøke Sverige. / A2+: Jeg vil besøke Italia fordi jeg liker mat og sol."
+  },
+  {
+    "text": "Hva vil du lære i år?",
+    "translation": "Что ты хочешь выучить в этом году?",
+    "tip": "A1: Jeg vil lære norsk. / A2+: Jeg vil lære bedre norsk og begynne å snakke mer med nordmenn."
+  },
+  {
+    "text": "Vil du bo i Norge lenge?",
+    "translation": "Ты хочешь жить в Норвегии долго?",
+    "tip": "A1: Ja, jeg vil bo her. / A2+: Ja, jeg vil bo her lenge fordi jeg liker landet og folket."
+  },
+  {
+    "text": "Hva skal du gjøre etter timen?",
+    "translation": "Что ты собираешься делать после урока?",
+    "tip": "A1: Jeg skal gå hjem. / A2+: Jeg skal handle mat og lage middag etter timen."
+  },
+  {
+    "text": "Hva skal du kjøpe i dag?",
+    "translation": "Что ты собираешься купить сегодня?",
+    "tip": "A1: Jeg skal kjøpe melk og brød. / A2+: Jeg skal kjøpe mat til helgen og kanskje nye sko."
+  },
+  {
+    "text": "Hva skal du lage til middag i kveld?",
+    "translation": "Что ты собираешься приготовить на ужин сегодня вечером?",
+    "tip": "A1: Jeg skal lage pasta. / A2+: Jeg skal lage kylling med ris og grønnsaker."
+  },
+  {
+    "text": "Skal du møte noen i helgen?",
+    "translation": "Ты собираешься встретиться с кем-то на выходных?",
+    "tip": "A1: Ja, jeg skal møte en venn. / A2+: Ja, jeg skal møte en venninne på kafé på søndag."
+  },
+  {
+    "text": "Hva skulle du gjøre i går, men glemte?",
+    "translation": "Что ты должен был сделать вчера, но забыл?",
+    "tip": "A1: Jeg skulle vaske klær. / A2+: Jeg skulle ringe til legen, men jeg glemte det."
+  },
+  {
+    "text": "Hva skulle du kjøpe i går, men kjøpte ikke?",
+    "translation": "Что ты должен был купить вчера, но не купил?",
+    "tip": "A1: Jeg skulle kjøpe melk. / A2+: Jeg skulle kjøpe melk og kaffe, men jeg hadde ikke tid."
+  },
+  {
+    "text": "Hva burde man gjøre for å lære norsk?",
+    "translation": "Что следовало бы делать, чтобы выучить норвежский?",
+    "tip": "A1: Man burde snakke norsk hver dag. / A2+: Man burde snakke norsk hver dag og høre på norsk radio eller TV."
+  },
+  {
+    "text": "Hva burde du gjøre for å føle deg bedre?",
+    "translation": "Что тебе следовало бы делать, чтобы чувствовать себя лучше?",
+    "tip": "A1: Jeg burde sove mer. / A2+: Jeg burde sove mer og ta pauser når jeg er stresset."
+  },
+  {
+    "text": "Hva burde du spise mindre av?",
+    "translation": "Что тебе следовало бы есть меньше?",
+    "tip": "A1: Jeg burde spise mindre sukker. / A2+: Jeg burde spise mindre søtsaker og drikke mindre kaffe."
+  },
+  {
+    "text": "Hva burde du gjøre for å snakke norsk bedre?",
+    "translation": "Что тебе следовало бы делать, чтобы лучше говорить по-норвежски?",
+    "tip": "A1: Jeg burde øve hver dag. / A2+: Jeg burde snakke norsk med venner og høre på norsk podkast."
+  },
+  {
+    "text": "Hva burde man gjøre for å ha det bra hjemme?",
+    "translation": "Что следовало бы делать, чтобы дома было хорошо?",
+    "tip": "A1: Man burde snakke sammen. / A2+: Man burde hjelpe hverandre og ha tid til å være sammen."
+  },
+  {
+    "text": "Hva burde man gjøre for å holde seg sunn og glad?",
+    "translation": "Что следовало бы делать, чтобы быть здоровым и счастливым?",
+    "tip": "A1: Man burde spise sunt og gå tur. / A2+: Man burde spise sunt, trene og være sammen med venner."
+  }
+]
+  ]
+}
