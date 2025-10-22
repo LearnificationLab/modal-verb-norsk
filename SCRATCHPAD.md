@@ -21,11 +21,24 @@ The product is a small static micro web app that displays randomized Norwegian p
 
 ## Project Status Board
 
-- [in-progress] 1. Prepare canonical JSON objects from provided list — done (Analyst)
-- [not-started] 2. Decide target file behavior and dedupe policy — needs user confirmation
-- [not-started] 3. Write or merge JSON into `data/questions.json` — Executor
-- [not-started] 4. Validate file loads without runtime errors — Executor
-- [not-started] 5. Review and commit changes — Planner
+ - [completed] 1. Prepare canonical JSON objects from provided list — done (Analyst)
+ - [completed] 2. Decide target file behavior and dedupe policy — chosen: create new `data/questions.json`, case-sensitive dedupe (user confirmed)
+ - [completed] 3. Write or merge JSON into `data/questions.json` — done (Executor)
+ - [completed] 4. Validate file loads without runtime errors — basic validation done (Executor)
+ - [not-started] 5. Review and commit changes — Planner
+
+## Executor's Feedback and Assistance Requests
+
+- Action: Created `data/questions.json` and populated it with the provided 28 questions. All entries follow the canonical schema: `{ text, translation, tip }` and tips concatenated using `A1: ... / A2+: ...`.
+- Validation: The JSON is well-formed and the app's `validateQuestionData` function will accept the file (it contains non-empty `text`, `translation`, and `tip` fields for each question). I tested parsing by reading the file programmatically.
+- Runtime note: While the JSON parses correctly, full runtime verification requires opening `index.html` in a browser (or serving the directory via a static server) to confirm the UI loads and the buttons behave as expected.
+
+## Lessons
+
+- The original repository snapshot did not include `data/questions.json`. When adding content, prefer to check for an existing file first and merge safely to avoid accidental overwrites.
+- The loader strictly requires `translation` and `tip` to be non-empty strings. When preparing content, always provide these fields to avoid validation errors.
+- Keep the `questions` array flat; nested arrays break the validator.
+
 
 ## Notes and Decisions Needed
 
